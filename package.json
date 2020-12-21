@@ -1,0 +1,20 @@
+{
+  "name": "gca-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "noblox.js": "^4.7.2",
+    "dotenv": "^8.2.0",
+    "discord.js": "^12.3.1",
+    "simple-git": "^2.22.0",
+    "shelljs": "^0.8.4"
+  },
+  "author": "Leo <leo@justleo.ml> (https://justleo.me)",
+  "license": "ISC"
+}

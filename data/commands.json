@@ -1,0 +1,26 @@
+[
+    {
+        "name": "help",
+        "description": "Shows the help embed."
+    },
+    {
+        "name": "give",
+        "description": "Give a user power. Requires `All Access` or `Point Permissions` role to run."
+    },
+    {
+        "name": "remove",
+        "description": "Remove a user's power. Requires `All Access` or `Point Permissions` role to run."
+    },
+    {
+        "name": "power",
+        "description": "Check a user's (or your) power."
+    },
+    {
+        "name": "botname",
+        "description": "Change the bot's name. Only the owner of the bot and the developer can run this."
+    },
+    {
+        "name": "botavatar",
+        "description": "Change the bot's avatar using an image link. Only the owner of the bot and the developer can run this."
+    }
+]

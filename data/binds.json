@@ -1,0 +1,106 @@
+[
+    {
+        "rank": 1,
+        "needed": 5
+    },
+    {
+        "rank": 2,
+        "needed": 10
+    },
+    {
+        "rank": 3,
+        "needed": 20
+    },
+    {
+        "rank": 4,
+        "needed": 40
+    },
+    {
+        "rank": 5,
+        "needed": 60
+    },
+    {
+        "rank": 6,
+        "needed": 80
+    },
+    {
+        "rank": 7,
+        "needed": 100
+    },
+    {
+        "rank": 8,
+        "needed": 120
+    },
+    {
+        "rank": 9,
+        "needed": "∞"
+    },
+    {
+        "rank": 10,
+        "needed": "∞"
+    },
+    {
+        "rank": 13,
+        "needed": "∞"
+    },
+    {
+        "rank": 14,
+        "needed": "∞"
+    },
+    {
+        "rank": 15,
+        "needed": "∞"
+    },
+    {
+        "rank": 16,
+        "needed": "∞"
+    },
+    {
+        "rank": 17,
+        "needed": "∞"
+    },
+    {
+        "rank": 18,
+        "needed": "∞"
+    },
+    {
+        "rank": 19,
+        "needed": "∞"
+    },
+    {
+        "rank": 20,
+        "needed": "∞"
+    },
+    {
+        "rank": 21,
+        "needed": "∞"
+    },
+    {
+        "rank": 22,
+        "needed": "∞"
+    },
+    {
+        "rank": 23,
+        "needed": "∞"
+    },
+    {
+        "rank": 24,
+        "needed": "∞"
+    },
+    {
+        "rank": 25,
+        "needed": "∞"
+    },
+    {
+        "rank": 253,
+        "needed": "∞"
+    },
+    {
+        "rank": 254,
+        "needed": "∞"
+    },
+    {
+        "rank": 255,
+        "needed": "∞"
+    }
+]
